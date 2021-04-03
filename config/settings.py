@@ -25,7 +25,7 @@ SECRET_KEY = 'tv@+0++b$e3r^q2%71q5a5w*tz)o=s=s389(e_ji)sstl3h)d4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['news14.herokuapp.com','localhost']
 
 
 # Application definition
